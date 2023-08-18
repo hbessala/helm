@@ -1,0 +1,5 @@
+auth:
+  database: "helm_training"
+  password: "Test123"
+  username: "custom-test"
+  rootPassword: "Rootpass123"
